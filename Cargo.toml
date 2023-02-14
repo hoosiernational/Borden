@@ -1,0 +1,12 @@
+[package]
+name = "borden"
+version = "0.1.0"
+edition = "2021"
+license = "MIT OR Apache-2.0"
+keywords = ["base64", "rfc4648"]
+categories = ["encoding"]
+description = "A simple RFC 4648-compliant Base64 encoder and decoder"
+repository = "https://github.com/hoosiernational/Borden"
+
+
+[dependencies]
